@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kaverticalstrokecyr" format="2">
+	<unicode hex="049C"/>
+	<advance width="1928"/>
+	<outline>
+		<contour>
+			<point x="140" y="0" type="line"/>
+			<point x="140" y="1456" type="line"/>
+			<point x="572" y="1456" type="line"/>
+			<point x="572" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="1488" y="0" type="line"/>
+			<point x="1015" y="608" type="line"/>
+			<point x="1293" y="871" type="line"/>
+			<point x="1993" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="822" y="906" type="line"/>
+			<point x="1028" y="906" type="line"/>
+			<point x="1516" y="1456" type="line"/>
+			<point x="1960" y="1456" type="line"/>
+			<point x="1114" y="590" type="line"/>
+			<point x="822" y="590" type="line"/>
+		</contour>
+		<contour>
+			<point x="702" y="300" type="line"/>
+			<point x="702" y="1156" type="line"/>
+			<point x="952" y="1156" type="line"/>
+			<point x="952" y="300" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="637" y="675" angle="90" identifier="5CJVZV5P4J"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.868,0.7015,1</string>
+		</dict>
+	</lib>
+</glyph>

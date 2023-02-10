@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglleft" format="2">
+  <advance width="619"/>
+  <unicode hex="2039"/>
+  <guideline x="30.870609618326938" y="901" angle="0" identifier="Amp5Ormvx4"/>
+  <guideline x="-30.138525706801943" y="555" angle="0" identifier="JDX5vz3jKp"/>
+  <outline>
+    <contour>
+      <point x="52.62962675619491" y="531.0" type="line"/>
+      <point x="60.74066786878427" y="577.0" type="line"/>
+      <point x="469.14577107184436" y="1033.0" type="line"/>
+      <point x="555.1457710718444" y="1033.0" type="line"/>
+      <point x="190.68514731248956" y="554.0" type="line"/>
+      <point x="386.0481965724264" y="74.0" type="line"/>
+      <point x="300.04819657242643" y="74.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.Amp5Ormvx4</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.JDX5vz3jKp</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

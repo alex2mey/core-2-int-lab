@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring" format="2">
+  <advance width="1024"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="413.2055442973557" y="1436.0" type="qcurve" smooth="yes"/>
+      <point x="428.89864558040904" y="1525.0"/>
+      <point x="585.8211530725096" y="1655.0"/>
+      <point x="676.8211530725096" y="1655.0" type="qcurve" smooth="yes"/>
+      <point x="768.8211530725096" y="1655.0"/>
+      <point x="875.898645580409" y="1525.0"/>
+      <point x="860.2055442973557" y="1436.0" type="qcurve" smooth="yes"/>
+      <point x="844.3361160335938" y="1346.0"/>
+      <point x="692.1189164643273" y="1220.0"/>
+      <point x="600.1189164643273" y="1220.0" type="qcurve" smooth="yes"/>
+      <point x="509.1189164643273" y="1220.0"/>
+      <point x="397.33611603359384" y="1346.0"/>
+    </contour>
+    <contour>
+      <point x="493.2055442973557" y="1436.0" type="qcurve" smooth="yes"/>
+      <point x="482.97857941626467" y="1378.0"/>
+      <point x="542.4618051139198" y="1290.0"/>
+      <point x="612.4618051139198" y="1290.0" type="qcurve" smooth="yes"/>
+      <point x="682.4618051139198" y="1290.0"/>
+      <point x="767.9785794162647" y="1378.0"/>
+      <point x="778.2055442973557" y="1436.0" type="qcurve" smooth="yes"/>
+      <point x="788.6088361591551" y="1495.0"/>
+      <point x="728.4782644229169" y="1585.0"/>
+      <point x="664.4782644229169" y="1585.0" type="qcurve" smooth="yes"/>
+      <point x="600.4782644229169" y="1585.0"/>
+      <point x="503.6088361591551" y="1495.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

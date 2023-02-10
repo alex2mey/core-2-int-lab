@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="1024"/>
+  <unicode hex="02DD"/>
+  <guideline x="39.33430469233326" y="949" angle="0" identifier="1emCWSQy5G"/>
+  <guideline x="-21.67483063279562" y="603" angle="0" identifier="s1MFYmxmed"/>
+  <outline>
+    <contour>
+      <point x="7.949913467487079" y="1168.0" type="line"/>
+      <point x="361.6594740595376" y="1552.0" type="line"/>
+      <point x="680.63080811076" y="1342.0" type="line"/>
+      <point x="282.326980708465" y="1000.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="572.949913467487" y="1168.0" type="line"/>
+      <point x="928.6594740595376" y="1552.0" type="line"/>
+      <point x="1246.63080811076" y="1342.0" type="line"/>
+      <point x="849.326980708465" y="1000.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.1emCWSQy5G</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.s1MFYmxmed</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

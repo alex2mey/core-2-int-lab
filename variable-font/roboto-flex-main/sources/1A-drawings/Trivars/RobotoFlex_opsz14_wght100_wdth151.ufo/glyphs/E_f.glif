@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ef" format="2">
+	<unicode hex="0424"/>
+	<advance width="1812"/>
+	<outline>
+		<contour>
+			<point x="956" y="1476" type="line"/>
+			<point x="956" y="1268" type="line"/>
+			<point x="1015" y="1268" type="line" smooth="yes"/>
+			<point x="1401.1696065129" y="1268"/>
+			<point x="1762" y="983"/>
+			<point x="1762" y="741" type="qcurve" smooth="yes"/>
+			<point x="1762" y="498"/>
+			<point x="1400.1560379919" y="212"/>
+			<point x="1015" y="212" type="qcurve" smooth="yes"/>
+			<point x="956" y="212" type="line"/>
+			<point x="956" y="-20" type="line"/>
+			<point x="856" y="-20" type="line"/>
+			<point x="856" y="212" type="line"/>
+			<point x="797" y="212" type="line" smooth="yes"/>
+			<point x="411.8439620081" y="212"/>
+			<point x="50" y="498"/>
+			<point x="50" y="741" type="qcurve" smooth="yes"/>
+			<point x="50" y="983"/>
+			<point x="410.8303934871" y="1268"/>
+			<point x="797" y="1268" type="qcurve" smooth="yes"/>
+			<point x="856" y="1268" type="line"/>
+			<point x="856" y="1476" type="line"/>
+		</contour>
+		<contour>
+			<point x="1015" y="1178" type="qcurve" smooth="yes"/>
+			<point x="956" y="1178" type="line"/>
+			<point x="956" y="302" type="line"/>
+			<point x="1015" y="302" type="line" smooth="yes"/>
+			<point x="1383.7075471698" y="302"/>
+			<point x="1661" y="543"/>
+			<point x="1661" y="741" type="qcurve" smooth="yes"/>
+			<point x="1661" y="938"/>
+			<point x="1383.7075471698" y="1178"/>
+		</contour>
+		<contour>
+			<point x="797" y="1178" type="line" smooth="yes"/>
+			<point x="428.2924528302" y="1178"/>
+			<point x="151" y="938"/>
+			<point x="151" y="741" type="qcurve" smooth="yes"/>
+			<point x="151" y="543"/>
+			<point x="428.2924528302" y="302"/>
+			<point x="797" y="302" type="qcurve" smooth="yes"/>
+			<point x="856" y="302" type="line"/>
+			<point x="856" y="1178" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.868,0.7015,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaverticalstrokecyr" format="2">
+  <advance width="1723"/>
+  <unicode hex="049D"/>
+  <outline>
+    <contour>
+      <point x="869.455111116747" y="927.0" type="line"/>
+      <point x="746.3788785822385" y="229.0" type="line"/>
+      <point x="501.3788785822385" y="229.0" type="line"/>
+      <point x="624.455111116747" y="927.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="600.7784691426908" y="1133.0" type="line"/>
+      <point x="401.0" y="0.0" type="line"/>
+      <point x="-16.0" y="0.0" type="line"/>
+      <point x="183.77846914269082" y="1133.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1103.0" y="0.0" type="line"/>
+      <point x="839.1683730101447" y="466.0" type="line"/>
+      <point x="1205.4313278238815" y="683.0" type="line"/>
+      <point x="1625.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="698.8950228978879" y="731.0" type="line"/>
+      <point x="929.8950228978879" y="731.0" type="line"/>
+      <point x="1298.778469142691" y="1133.0" type="line"/>
+      <point x="1771.778469142691" y="1133.0" type="line"/>
+      <point x="1036.9389668010976" y="425.0" type="line"/>
+      <point x="644.9389668010976" y="425.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

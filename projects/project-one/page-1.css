@@ -1,0 +1,22 @@
+
+section{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.center {
+    margin: auto;
+    padding-top: 7vh;
+    width: 70%;
+    line-height: 2.7vh;
+}
+
+.symbol{
+    padding-top: 2vh;
+    text-align: center;
+    font-size: 500%;
+    color: rgb(54, 212, 54);
+}
+
+.symbol:hover{
+    color:rgb(54, 212, 54)
+}

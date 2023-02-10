@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemotleft" format="2">
+  <advance width="453"/>
+  <unicode hex="00AB"/>
+  <guideline x="30.870609618326938" y="901" angle="0" identifier="ZftBQarVKw"/>
+  <guideline x="-30.138525706801943" y="555" angle="0" identifier="MVJpdoVRVd"/>
+  <outline>
+    <contour>
+      <point x="-7.015277954432079" y="516.0" type="line"/>
+      <point x="-0.4911796682188623" y="553.0" type="line"/>
+      <point x="193.33918734824545" y="915.0" type="line"/>
+      <point x="281.33918734824545" y="915.0" type="line"/>
+      <point x="97.15860769832028" y="534.0" type="line"/>
+      <point x="146.97802804839512" y="153.0" type="line"/>
+      <point x="58.978028048395146" y="153.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="172.98472204556793" y="516.0" type="line"/>
+      <point x="179.50882033178112" y="553.0" type="line"/>
+      <point x="373.33918734824545" y="915.0" type="line"/>
+      <point x="461.33918734824545" y="915.0" type="line"/>
+      <point x="277.1586076983203" y="534.0" type="line"/>
+      <point x="326.9780280483951" y="153.0" type="line"/>
+      <point x="238.97802804839512" y="153.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.MVJpdoVRVd</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.ZftBQarVKw</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

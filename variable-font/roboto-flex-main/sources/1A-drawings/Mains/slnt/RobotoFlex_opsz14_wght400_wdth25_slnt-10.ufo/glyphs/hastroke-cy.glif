@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hastroke-cy" format="2">
+  <advance width="846"/>
+  <unicode hex="04FF"/>
+  <outline>
+    <contour>
+      <point x="79.99204602943621" y="465.0" type="line"/>
+      <point x="105.55945823216365" y="610.0" type="line"/>
+      <point x="699.5594582321636" y="610.0" type="line"/>
+      <point x="673.9920460294362" y="465.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-108.0" y="0.0" type="line"/>
+      <point x="330.2696488109097" y="580.0" type="line"/>
+      <point x="350.2696488109097" y="580.0" type="line"/>
+      <point x="677.4959837053052" y="1052.0" type="line"/>
+      <point x="866.4959837053052" y="1052.0" type="line"/>
+      <point x="443.69491262431393" y="486.0" type="line"/>
+      <point x="421.69491262431393" y="486.0" type="line"/>
+      <point x="80.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="95.49598370530515" y="1052.0" type="line"/>
+      <point x="285.49598370530515" y="1052.0" type="line"/>
+      <point x="452.26964881090964" y="580.0" type="line"/>
+      <point x="464.26964881090964" y="580.0" type="line"/>
+      <point x="698.0" y="0.0" type="line"/>
+      <point x="508.0" y="0.0" type="line"/>
+      <point x="332.694912624314" y="486.0" type="line"/>
+      <point x="319.694912624314" y="486.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

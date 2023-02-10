@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaverticalstrokecyr" format="2">
+  <advance width="1404"/>
+  <unicode hex="049D"/>
+  <guideline x="533.7888644412108" y="651" angle="100.0" identifier="ATaXbxe4rK"/>
+  <outline>
+    <contour>
+      <point x="669.2305875636122" y="852.0" type="line"/>
+      <point x="554.265396141693" y="200.0" type="line"/>
+      <point x="380.265396141693" y="200.0" type="line"/>
+      <point x="495.2305875636122" y="852.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="400.4959837053052" y="1052.0" type="line"/>
+      <point x="215.0" y="0.0" type="line"/>
+      <point x="20.0" y="0.0" type="line"/>
+      <point x="205.49598370530515" y="1052.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1055.0" y="0.0" type="line"/>
+      <point x="638" y="477.0" type="line"/>
+      <point x="773.3251693672044" y="603.0" type="line"/>
+      <point x="1292.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="540.0884391742891" y="613.0" type="line"/>
+      <point x="666.0884391742891" y="613.0" type="line"/>
+      <point x="1164.4959837053052" y="1052.0" type="line"/>
+      <point x="1390.4959837053052" y="1052.0" type="line"/>
+      <point x="700.4630650873108" y="462.0" type="line"/>
+      <point x="513.4630650873108" y="462.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

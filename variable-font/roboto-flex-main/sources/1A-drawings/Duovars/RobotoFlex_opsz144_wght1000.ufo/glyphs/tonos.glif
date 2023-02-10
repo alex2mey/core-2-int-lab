@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos" format="2">
+	<unicode hex="0384"/>
+	<advance width="905"/>
+	<outline>
+		<contour>
+			<point x="532" y="975" type="line"/>
+			<point x="186" y="1071" type="line"/>
+			<point x="295" y="1523" type="line"/>
+			<point x="760" y="1411" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.7176,0.2706,1,1</string>
+		</dict>
+	</lib>
+</glyph>

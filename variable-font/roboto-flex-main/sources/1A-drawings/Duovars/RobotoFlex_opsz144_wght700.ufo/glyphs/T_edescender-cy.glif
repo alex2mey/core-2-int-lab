@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tedescender-cy" format="2">
+	<unicode hex="04AC"/>
+	<advance width="1136"/>
+	<outline>
+		<contour>
+			<point x="554" y="-285" type="line"/>
+			<point x="554" y="0" type="line"/>
+			<point x="389" y="0" type="line"/>
+			<point x="389" y="1173.5" type="line"/>
+			<point x="8" y="1173.5" type="line"/>
+			<point x="8" y="1456" type="line"/>
+			<point x="1128" y="1456" type="line"/>
+			<point x="1128" y="1173.5" type="line"/>
+			<point x="749" y="1173.5" type="line"/>
+			<point x="749" y="284" type="line"/>
+			<point x="884" y="284" type="line"/>
+			<point x="884" y="-285" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.868,0.7015,1</string>
+		</dict>
+	</lib>
+</glyph>

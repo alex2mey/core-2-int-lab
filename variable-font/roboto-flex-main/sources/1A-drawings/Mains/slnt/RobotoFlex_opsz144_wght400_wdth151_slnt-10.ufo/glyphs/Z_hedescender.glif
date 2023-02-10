@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhedescender" format="2">
+  <advance width="2177"/>
+  <unicode hex="0496"/>
+  <outline>
+    <contour>
+      <point x="843.0" y="0.0" type="line"/>
+      <point x="1099.732083911525" y="1456.0" type="line"/>
+      <point x="1209.732083911525" y="1456.0" type="line"/>
+      <point x="953.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1838.0" y="0.0" type="line"/>
+      <point x="1199.8950228978879" y="731.0" type="line"/>
+      <point x="1284" y="797.0" type="line"/>
+      <point x="1981.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-42.0" y="0.0" type="line"/>
+      <point x="-205.0" y="0.0" type="line"/>
+      <point x="774" y="797.0" type="line"/>
+      <point x="853.8950228978879" y="731.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1039.414238528189" y="802.0" type="line"/>
+      <point x="1022.1341944187593" y="704.0" type="line"/>
+      <point x="793" y="704.0" type="line"/>
+      <point x="105" y="1456.0" type="line"/>
+      <point x="239.73208391152502" y="1456.0" type="line"/>
+      <point x="834.4142385281889" y="802.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1039.414238528189" y="802.0" type="line"/>
+      <point x="1244.414238528189" y="802.0" type="line"/>
+      <point x="2069.732083911525" y="1456.0" type="line"/>
+      <point x="2219" y="1456.0" type="line"/>
+      <point x="1265" y="704.0" type="line"/>
+      <point x="1022.1341944187593" y="704.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1838.0" y="0.0" type="line"/>
+      <point x="1855.2800441094296" y="98.0" type="line"/>
+      <point x="2096.2800441094296" y="98.0" type="line"/>
+      <point x="2029.62844540163" y="-280.0" type="line"/>
+      <point x="1929.62844540163" y="-280.0" type="line"/>
+      <point x="1979.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

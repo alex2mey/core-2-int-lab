@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb" format="2">
+	<unicode hex="0300"/>
+	<advance width="998"/>
+	<outline>
+		<component base="grave"/>
+	</outline>
+	<anchor name="_top" x="499" y="1115.8"/>
+	<anchor name="top" x="499" y="1767"/>
+</glyph>

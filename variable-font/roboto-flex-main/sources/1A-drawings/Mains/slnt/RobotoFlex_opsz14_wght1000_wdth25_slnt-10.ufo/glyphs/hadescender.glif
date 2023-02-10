@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hadescender" format="2">
+  <advance width="920"/>
+  <unicode hex="04B3"/>
+  <outline>
+    <contour>
+      <point x="-127.0" y="0.0" type="line"/>
+      <point x="250.38068992349906" y="626.0" type="line"/>
+      <point x="358.38068992349906" y="626.0" type="line"/>
+      <point x="606.553945589556" y="1058.0" type="line"/>
+      <point x="941.553945589556" y="1058.0" type="line"/>
+      <point x="565.0524492416431" y="454.0" type="line"/>
+      <point x="450.0524492416431" y="454.0" type="line"/>
+      <point x="207.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="64.55394558955595" y="1058.0" type="line"/>
+      <point x="486" y="1058.0" type="line"/>
+      <point x="581" y="629.0" type="line"/>
+      <point x="596" y="629.0" type="line"/>
+      <point x="736" y="107.0" type="line"/>
+      <point x="717.0" y="0.0" type="line"/>
+      <point x="344.0" y="0.0" type="line"/>
+      <point x="245.58143018376848" y="457.0" type="line"/>
+      <point x="229.58143018376848" y="457.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="395.84013232828875" y="294.0" type="line"/>
+      <point x="843.8401323282887" y="294.0" type="line"/>
+      <point x="744.3917152087145" y="-270.0" type="line"/>
+      <point x="360.39171520871446" y="-270.0" type="line"/>
+      <point x="408.0" y="0.0" type="line"/>
+      <point x="344.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

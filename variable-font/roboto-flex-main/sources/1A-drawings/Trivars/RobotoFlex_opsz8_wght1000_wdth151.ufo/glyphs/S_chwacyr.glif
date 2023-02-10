@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Schwacyr" format="2">
+	<unicode hex="04D8"/>
+	<advance width="1822"/>
+	<outline>
+		<contour>
+			<point x="337" y="825" type="line"/>
+			<point x="1486" y="825" type="line"/>
+			<point x="1486" y="586" type="line"/>
+			<point x="337" y="586" type="line"/>
+		</contour>
+		<contour>
+			<point x="1273" y="778" type="line" smooth="yes"/>
+			<point x="1273" y="1009"/>
+			<point x="1088" y="1182"/>
+			<point x="908" y="1182" type="qcurve" smooth="yes"/>
+			<point x="755" y="1182"/>
+			<point x="604" y="1092"/>
+			<point x="589" y="1002" type="qcurve" smooth="yes"/>
+			<point x="587" y="990" type="line"/>
+			<point x="144" y="990" type="line"/>
+			<point x="145" y="1000" type="line" smooth="yes"/>
+			<point x="166" y="1207"/>
+			<point x="557" y="1485"/>
+			<point x="907" y="1485" type="qcurve" smooth="yes"/>
+			<point x="1255" y="1485"/>
+			<point x="1707" y="1147"/>
+			<point x="1707" y="773" type="qcurve" smooth="yes"/>
+			<point x="1707" y="683" type="line" smooth="yes"/>
+			<point x="1707" y="307"/>
+			<point x="1251" y="-29"/>
+			<point x="901" y="-29" type="qcurve" smooth="yes"/>
+			<point x="549" y="-29"/>
+			<point x="115" y="302"/>
+			<point x="115" y="667" type="qcurve" smooth="yes"/>
+			<point x="115" y="825" type="line"/>
+			<point x="560" y="825" type="line"/>
+			<point x="560" y="657" type="line" smooth="yes"/>
+			<point x="560" y="460"/>
+			<point x="731" y="272"/>
+			<point x="910" y="272" type="qcurve" smooth="yes"/>
+			<point x="1094" y="272"/>
+			<point x="1273" y="431"/>
+			<point x="1273" y="634" type="qcurve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.868,0.7015,1</string>
+		</dict>
+	</lib>
+</glyph>

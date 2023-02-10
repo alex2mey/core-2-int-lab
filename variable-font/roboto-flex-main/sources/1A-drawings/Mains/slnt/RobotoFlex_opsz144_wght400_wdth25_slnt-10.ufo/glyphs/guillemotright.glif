@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemotright" format="2">
+  <advance width="453"/>
+  <unicode hex="00BB"/>
+  <guideline x="-110.71995589057043" y="98" angle="0" identifier="MTEldNnfdj"/>
+  <guideline x="-49.88714754615002" y="443" angle="0" identifier="G9bQni2n1K"/>
+  <outline>
+    <contour>
+      <point x="-76.02197195160485" y="153.0" type="line"/>
+      <point x="108.15860769832028" y="534.0" type="line"/>
+      <point x="58.339187348245446" y="915.0" type="line"/>
+      <point x="146.33918734824545" y="915.0" type="line"/>
+      <point x="212.33249335107269" y="552.0" type="line"/>
+      <point x="205.8083950648595" y="515.0" type="line"/>
+      <point x="11.978028048395146" y="153.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="103.97802804839515" y="153.0" type="line"/>
+      <point x="288.1586076983203" y="534.0" type="line"/>
+      <point x="238.33918734824545" y="915.0" type="line"/>
+      <point x="326.33918734824545" y="915.0" type="line"/>
+      <point x="392.3324933510727" y="552.0" type="line"/>
+      <point x="385.8083950648595" y="515.0" type="line"/>
+      <point x="191.97802804839512" y="153.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.G9bQni2n1K</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.MTEldNnfdj</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

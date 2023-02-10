@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaverticalstrokecyr" format="2">
+	<unicode hex="049D"/>
+	<advance width="1292"/>
+	<outline>
+		<contour>
+			<point x="631" y="889" type="line"/>
+			<point x="631" y="200" type="line"/>
+			<point x="456" y="200" type="line"/>
+			<point x="456" y="889" type="line"/>
+		</contour>
+		<contour>
+			<point x="344" y="1089" type="line"/>
+			<point x="344" y="0" type="line"/>
+			<point x="148" y="0" type="line"/>
+			<point x="148" y="1089" type="line"/>
+		</contour>
+		<contour>
+			<point x="1064" y="0" type="line"/>
+			<point x="674" y="528" type="line"/>
+			<point x="809" y="656" type="line"/>
+			<point x="1292" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="544" y="630" type="line"/>
+			<point x="717" y="630" type="line"/>
+			<point x="1037" y="1089" type="line"/>
+			<point x="1254" y="1089" type="line"/>
+			<point x="819" y="471" type="line"/>
+			<point x="544" y="471" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="547" y="651" angle="90" identifier="ATaXbxe4rK"/>
+	<guideline x="241" y="553" angle="90" identifier="5dyO890EB6"/>
+	<guideline x="241" y="553" angle="90" identifier="B5GQpsI5QQ"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.6157,0.6499,1</string>
+		</dict>
+	</lib>
+</glyph>

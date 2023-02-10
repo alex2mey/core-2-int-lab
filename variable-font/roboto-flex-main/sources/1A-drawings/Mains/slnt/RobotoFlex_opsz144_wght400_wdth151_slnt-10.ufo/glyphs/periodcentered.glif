@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered" format="2">
+  <advance width="526"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="178.8925815699318" y="748.0" type="qcurve" smooth="yes"/>
+      <point x="185.24035287543654" y="784.0"/>
+      <point x="239.88037493015133" y="833.0"/>
+      <point x="281.88037493015133" y="833.0" type="qcurve" smooth="yes"/>
+      <point x="323.88037493015133" y="833.0"/>
+      <point x="361.24035287543654" y="784.0"/>
+      <point x="354.8925815699318" y="748.0" type="qcurve" smooth="yes"/>
+      <point x="348.3684832837186" y="711.0"/>
+      <point x="293.7284612290038" y="662.0"/>
+      <point x="251.7284612290038" y="662.0" type="qcurve" smooth="yes"/>
+      <point x="209.7284612290038" y="662.0"/>
+      <point x="172.54481026442704" y="712.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

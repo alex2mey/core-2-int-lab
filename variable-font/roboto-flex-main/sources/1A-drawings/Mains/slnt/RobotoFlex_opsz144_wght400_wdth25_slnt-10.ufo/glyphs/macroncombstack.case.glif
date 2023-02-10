@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncombstack.case" format="2">
+  <advance width="500"/>
+  <anchor x="250.0" y="1456" name="_top"/>
+  <anchor x="250.0" y="1595" name="top"/>
+  <outline>
+    <contour>
+      <point x="257.3721059662398" y="1505.0" type="line"/>
+      <point x="273.24153423000166" y="1595.0" type="line"/>
+      <point x="533.2415342300017" y="1595.0" type="line"/>
+      <point x="517.3721059662398" y="1505.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="160"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="85.16286036753698" y="914.0" type="line"/>
+      <point x="-76.0" y="0.0" type="line"/>
+      <point x="-82.0" y="0.0" type="line"/>
+      <point x="79.16286036753698" y="914.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="189.16286036753695" y="914.0" type="line"/>
+      <point x="46.46062375935472" y="479.0" type="line"/>
+      <point x="5.460623759354718" y="479.0" type="line"/>
+      <point x="6.518585643605519" y="485.0" type="line"/>
+      <point x="42.51858564360552" y="485.0" type="line"/>
+      <point x="183.16286036753695" y="914.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="26.0" y="0.0" type="line"/>
+      <point x="41.636950740063185" y="480.0" type="line"/>
+      <point x="47.165931682188585" y="483.0" type="line"/>
+      <point x="32.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

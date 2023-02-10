@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kappa" format="2">
+  <advance width="1419"/>
+  <unicode hex="03BA"/>
+  <outline>
+    <contour>
+      <point x="32.0" y="0.0" type="line"/>
+      <point x="231.77846914269082" y="1133.0" type="line"/>
+      <point x="647.7784691426908" y="1133.0" type="line"/>
+      <point x="579.3636006278064" y="745.0" type="line"/>
+      <point x="622.3636006278064" y="745.0" type="line"/>
+      <point x="1088.778469142691" y="1133.0" type="line"/>
+      <point x="1521.778469142691" y="1133.0" type="line"/>
+      <point x="852.0304772900382" y="607.0" type="line"/>
+      <point x="1385.0" y="0.0" type="line"/>
+      <point x="893.0" y="0.0" type="line"/>
+      <point x="533.9993700133045" y="414.0" type="line"/>
+      <point x="520.9993700133045" y="414.0" type="line"/>
+      <point x="448.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ve.bgr" format="2">
+	<advance width="1204"/>
+	<outline>
+		<contour>
+			<point x="168" y="390" type="qcurve" smooth="yes"/>
+			<point x="168" y="1110" type="line" smooth="yes"/>
+			<point x="168" y="1289"/>
+			<point x="410.3619909502" y="1476"/>
+			<point x="620" y="1476" type="qcurve" smooth="yes"/>
+			<point x="833.7285067873" y="1476"/>
+			<point x="1072" y="1285"/>
+			<point x="1072" y="1110" type="qcurve" smooth="yes"/>
+			<point x="1072" y="974"/>
+			<point x="921.8921212049" y="797.1749799864"/>
+			<point x="812" y="764" type="qcurve"/>
+			<point x="812" y="760" type="line"/>
+			<point x="941.0631060015" y="734.1873787997"/>
+			<point x="1118" y="560"/>
+			<point x="1118" y="390" type="qcurve" smooth="yes"/>
+			<point x="1118" y="196"/>
+			<point x="873.838012959" y="-30"/>
+			<point x="645" y="-30" type="qcurve" smooth="yes"/>
+			<point x="405.9892933619" y="-30"/>
+			<point x="168" y="170"/>
+		</contour>
+		<contour>
+			<point x="620" y="1380" type="qcurve" smooth="yes"/>
+			<point x="459.3153153153" y="1380"/>
+			<point x="277" y="1240"/>
+			<point x="277" y="1110" type="qcurve" smooth="yes"/>
+			<point x="277" y="804" type="line"/>
+			<point x="623" y="804" type="line" smooth="yes"/>
+			<point x="770.3465045593" y="804"/>
+			<point x="962" y="947"/>
+			<point x="962" y="1100" type="qcurve" smooth="yes"/>
+			<point x="962" y="1240"/>
+			<point x="775.5481927711" y="1380"/>
+		</contour>
+		<contour>
+			<point x="277" y="390" type="line" smooth="yes"/>
+			<point x="277" y="205"/>
+			<point x="476.4189944134" y="66"/>
+			<point x="645" y="66" type="qcurve" smooth="yes"/>
+			<point x="823.9431818182" y="66"/>
+			<point x="1008.0000009969" y="219.9998305199"/>
+			<point x="1007" y="390" type="qcurve" smooth="yes"/>
+			<point x="1005.9999990555" y="561.0001615101"/>
+			<point x="802.5776566757" y="708"/>
+			<point x="630" y="708" type="qcurve" smooth="yes"/>
+			<point x="277" y="708" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="830" y="934" angle="0" identifier="CqNxvt5nMA"/>
+	<guideline x="823" y="-464" angle="0" identifier="jdNA70239G"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.9991,0.8674,0.7109,1</string>
+		</dict>
+	</lib>
+</glyph>

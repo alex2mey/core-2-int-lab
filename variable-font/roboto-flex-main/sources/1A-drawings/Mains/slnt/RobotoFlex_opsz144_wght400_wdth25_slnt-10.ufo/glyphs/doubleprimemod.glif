@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doubleprimemod" format="2">
+  <advance width="491"/>
+  <unicode hex="02BA"/>
+  <outline>
+    <contour>
+      <point x="257.3165854099451" y="1482.0" type="line"/>
+      <point x="376.3165854099451" y="1482.0" type="line"/>
+      <point x="190.7400378820888" y="991.0" type="line"/>
+      <point x="119.62167278563112" y="996.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="447.3165854099451" y="1482.0" type="line"/>
+      <point x="566.3165854099451" y="1482.0" type="line"/>
+      <point x="380.7400378820888" y="991.0" type="line"/>
+      <point x="309.6216727856311" y="996.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

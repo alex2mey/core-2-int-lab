@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless" format="2">
+  <advance width="278"/>
+  <anchor x="139.0" y="-436" name="bottom"/>
+  <anchor x="139.0" y="914" name="top"/>
+  <outline>
+    <contour>
+      <point x="-301.70467793613835" y="-418.0" type="qcurve"/>
+      <point x="-299.5887541676368" y="-406.0" type="line"/>
+      <point x="-286.82304303259605" y="-413.0"/>
+      <point x="-242.1152937818061" y="-426.0"/>
+      <point x="-213.1152937818061" y="-426.0" type="qcurve" smooth="yes"/>
+      <point x="-135.1152937818061" y="-426.0"/>
+      <point x="-37.014017981041064" y="-312.0"/>
+      <point x="-17.265396141693003" y="-200.0" type="qcurve" smooth="yes"/>
+      <point x="179.16286036753695" y="914.0" type="line"/>
+      <point x="189.16286036753695" y="914.0" type="line"/>
+      <point x="-9.028665948777643" y="-210.0" type="line" smooth="yes"/>
+      <point x="-28.248306846000332" y="-319.0"/>
+      <point x="-133.87856358889073" y="-436.0"/>
+      <point x="-214.87856358889073" y="-436.0" type="qcurve" smooth="yes"/>
+      <point x="-245.87856358889073" y="-436.0"/>
+      <point x="-290.58631283968066" y="-423.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

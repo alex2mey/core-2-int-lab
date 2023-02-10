@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhedescender" format="2">
+  <advance width="1687"/>
+  <unicode hex="0496"/>
+  <outline>
+    <contour>
+      <point x="624.0" y="0.0" type="line"/>
+      <point x="880.732083911525" y="1456.0" type="line"/>
+      <point x="969.732083911525" y="1456.0" type="line"/>
+      <point x="713.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1363.0" y="0.0" type="line"/>
+      <point x="1005.0085053384335" y="760.0" type="line"/>
+      <point x="1095" y="771.0" type="line"/>
+      <point x="1460.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-25.0" y="0.0" type="line"/>
+      <point x="-138.0" y="0.0" type="line"/>
+      <point x="499" y="771.0" type="line"/>
+      <point x="601.0085053384335" y="760.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="808.1799496632296" y="795.0" type="line"/>
+      <point x="793.1921563030102" y="710.0" type="line"/>
+      <point x="517" y="710.0" type="line"/>
+      <point x="193" y="1456.0" type="line"/>
+      <point x="291.732083911525" y="1456.0" type="line"/>
+      <point x="576.1799496632296" y="795.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="808.1799496632296" y="795.0" type="line"/>
+      <point x="1043.1799496632298" y="795.0" type="line"/>
+      <point x="1559.732083911525" y="1456.0" type="line"/>
+      <point x="1667" y="1456.0" type="line"/>
+      <point x="1079" y="710.0" type="line"/>
+      <point x="793.1921563030102" y="710.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1363.0" y="0.0" type="line"/>
+      <point x="1377.811466379511" y="84.0" type="line"/>
+      <point x="1563.811466379511" y="84.0" type="line"/>
+      <point x="1497.8651755945452" y="-290.0" type="line"/>
+      <point x="1415.8651755945452" y="-290.0" type="line"/>
+      <point x="1467.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

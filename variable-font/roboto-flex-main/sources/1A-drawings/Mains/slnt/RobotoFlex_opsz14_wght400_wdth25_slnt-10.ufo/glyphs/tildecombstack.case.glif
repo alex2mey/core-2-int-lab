@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecombstack.case" format="2">
+  <advance width="1024"/>
+  <anchor x="512.0" y="1456" name="_top"/>
+  <anchor x="512.0" y="1813" name="top"/>
+  <outline>
+    <contour>
+      <point x="338.9370768410111" y="1667.0" type="line"/>
+      <point x="391.63261945202066" y="1739.0"/>
+      <point x="528.680816024447" y="1813.0"/>
+      <point x="595.680816024447" y="1813.0" type="qcurve" smooth="yes"/>
+      <point x="630.680816024447" y="1813.0"/>
+      <point x="699.8016224488608" y="1791.0"/>
+      <point x="731.2171209504406" y="1765.0" type="qcurve" smooth="yes"/>
+      <point x="757.3379273748544" y="1743.0"/>
+      <point x="817.1664830500581" y="1708.0"/>
+      <point x="849.1664830500581" y="1708.0" type="qcurve" smooth="yes"/>
+      <point x="889.1664830500581" y="1708.0"/>
+      <point x="943.2195622783968" y="1748.0"/>
+      <point x="971.0963145260268" y="1787.0" type="qcurve"/>
+      <point x="1049.0505592815566" y="1696.0" type="line"/>
+      <point x="1004.0023627091302" y="1622.0"/>
+      <point x="876.9541661367039" y="1548.0"/>
+      <point x="811.9541661367039" y="1548.0" type="qcurve" smooth="yes"/>
+      <point x="762.9541661367039" y="1548.0"/>
+      <point x="687.1256104615001" y="1583.0"/>
+      <point x="660.6521500756694" y="1603.0" type="qcurve" smooth="yes"/>
+      <point x="633.3550166705471" y="1624.0"/>
+      <point x="575.8791149567603" y="1661.0"/>
+      <point x="551.8791149567603" y="1661.0" type="qcurve" smooth="yes"/>
+      <point x="515.8791149567603" y="1661.0"/>
+      <point x="445.18113101779477" y="1606.0"/>
+      <point x="420.8913215965408" y="1576.0" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

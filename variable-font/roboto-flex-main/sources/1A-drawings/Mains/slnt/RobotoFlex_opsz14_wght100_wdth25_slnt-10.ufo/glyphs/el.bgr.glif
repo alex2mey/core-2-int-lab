@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="el.bgr" format="2">
+  <advance width="786"/>
+  <outline>
+    <contour>
+      <point x="648.0" y="0.0" type="line"/>
+      <point x="563.0" y="0.0" type="line"/>
+      <point x="452.00362268252115" y="794.0" type="line" smooth="yes"/>
+      <point x="446" y="834"/>
+      <point x="439.28366679195074" y="892.0"/>
+      <point x="439.4526697887909" y="944.0" type="qcurve"/>
+      <point x="418.4526697887909" y="944.0" type="line"/>
+      <point x="400.28366679195074" y="892.0"/>
+      <point x="372.23302889156827" y="835.0"/>
+      <point x="353.00362268252115" y="794.0" type="qcurve" smooth="yes"/>
+      <point x="-27.0" y="0.0" type="line"/>
+      <point x="-118.0" y="0.0" type="line"/>
+      <point x="405.4959837053052" y="1052.0" type="line"/>
+      <point x="498.4959837053052" y="1052.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb.case" format="2">
+  <advance width="1024"/>
+  <anchor x="512.0" y="0" name="_bottom"/>
+  <anchor x="512.0" y="-500.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-40.63450941210709" y="-497.0" type="line"/>
+      <point x="6.703496581573262" y="-393.0"/>
+      <point x="88.79500707051389" y="-211.0"/>
+      <point x="134.3648606011974" y="-83.0" type="qcurve"/>
+      <point x="656.7175145626144" y="-81.0" type="line"/>
+      <point x="441.8365096457675" y="-500.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcombstack.case" format="2">
+  <advance width="500"/>
+  <anchor x="250.0" y="1456" name="_top"/>
+  <anchor x="250.0" y="1637" name="top"/>
+  <outline>
+    <contour>
+      <point x="322.5990708473308" y="1563.0" type="qcurve" smooth="yes"/>
+      <point x="328.9468421528355" y="1599.0"/>
+      <point x="374.64726741975716" y="1637.0"/>
+      <point x="410.6472674197571" y="1637.0" type="qcurve" smooth="yes"/>
+      <point x="444.6472674197571" y="1637.0"/>
+      <point x="478.41786121071004" y="1596.0"/>
+      <point x="472.5990708473307" y="1563.0" type="qcurve" smooth="yes"/>
+      <point x="466.25129954182603" y="1527.0"/>
+      <point x="420.55087427490434" y="1489.0"/>
+      <point x="384.55087427490434" y="1489.0" type="qcurve" smooth="yes"/>
+      <point x="350.55087427490434" y="1489.0"/>
+      <point x="316.7802804839514" y="1530.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

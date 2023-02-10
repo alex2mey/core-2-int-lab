@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fraction" format="2">
+  <advance width="342"/>
+  <unicode hex="2044"/>
+  <guideline x="30.870609618326938" y="901" angle="0" identifier="tcCoNUQTdD"/>
+  <guideline x="-30.138525706801943" y="555" angle="0" identifier="0lx51aIE0d"/>
+  <outline>
+    <contour>
+      <point x="720.376988622152" y="1471.0" type="line"/>
+      <point x="-292.28980942125395" y="-30.0" type="line"/>
+      <point x="-366.0024413279561" y="17.0" type="line"/>
+      <point x="643.9010869083652" y="1508.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.0lx51aIE0d</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.tcCoNUQTdD</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

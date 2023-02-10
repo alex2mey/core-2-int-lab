@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve.cyr" format="2">
+  <advance width="1028"/>
+  <anchor x="514.0" y="1089.12" name="_top"/>
+  <anchor x="514.0" y="1089.12" name="top"/>
+  <outline>
+    <contour>
+      <point x="624.3940779178447" y="1352.0" type="qcurve" smooth="yes"/>
+      <point x="702.3940779178447" y="1352.0"/>
+      <point x="826.2034170148113" y="1464.8387418325"/>
+      <point x="876.5966295193747" y="1580.0" type="qcurve"/>
+      <point x="940.1908963296191" y="1538.0" type="line"/>
+      <point x="890.7443330579673" y="1421.4330450322"/>
+      <point x="721.9097564289352" y="1280.0"/>
+      <point x="611.6985353068352" y="1280.0" type="qcurve" smooth="yes"/>
+      <point x="501.48731418473517" y="1280.0"/>
+      <point x="382.8232452586327" y="1417.4480909474"/>
+      <point x="374.19089632961914" y="1538.0" type="qcurve"/>
+      <point x="452.5966295193747" y="1580.0" type="line"/>
+      <point x="462.19612342497635" y="1463.7856048305"/>
+      <point x="546.3940779178447" y="1352.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

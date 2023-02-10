@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horizontalbarlc" format="2">
+  <advance width="703"/>
+  <outline>
+    <contour>
+      <point x="365.670499344753" y="656.0" type="line"/>
+      <point x="-56.329500655246974" y="656.0" type="line"/>
+      <point x="-10.769412436387853" y="852.0" type="line"/>
+      <point x="440.2305875636122" y="852.0" type="line"/>
+      <point x="725.2305875636122" y="852.0" type="line"/>
+      <point x="690.670499344753" y="656.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

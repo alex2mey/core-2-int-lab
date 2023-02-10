@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright" format="2">
+  <advance width="277"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="-136.82548436055214" y="-396.0" type="qcurve"/>
+      <point x="-181.36178928654581" y="-348.0" type="line"/>
+      <point x="-102.60828479128554" y="-270.0"/>
+      <point x="25.92739014801265" y="96.0"/>
+      <point x="86.40754453101613" y="439.0" type="qcurve" smooth="yes"/>
+      <point x="112.6802646565774" y="588.0" type="line" smooth="yes"/>
+      <point x="184.79799976633956" y="997.0"/>
+      <point x="172.97857941626472" y="1378.0"/>
+      <point x="133.26594750956258" y="1425.0" type="qcurve"/>
+      <point x="193.2586235256943" y="1476.0" type="line"/>
+      <point x="258.6186014709795" y="1427.0"/>
+      <point x="282.0878091875935" y="1027.0"/>
+      <point x="210.49905501995676" y="621.0" type="qcurve" smooth="yes"/>
+      <point x="175.93896680109765" y="425.0" type="line" smooth="yes"/>
+      <point x="102.4106158456677" y="8.0"/>
+      <point x="-50.59851947946116" y="-338.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kadescender" format="2">
+  <advance width="1254"/>
+  <unicode hex="049B"/>
+  <outline>
+    <contour>
+      <point x="713.0" y="0.0" type="line"/>
+      <point x="513" y="469.0" type="line"/>
+      <point x="810.187273647098" y="744.0" type="line"/>
+      <point x="1080.0359899326459" y="159.0" type="line"/>
+      <point x="1052.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="316.3709246116747" y="694.0" type="line"/>
+      <point x="580.3709246116747" y="694.0" type="line"/>
+      <point x="858.7302725702644" y="1059.0" type="line"/>
+      <point x="1278.7302725702643" y="1059.0" type="line"/>
+      <point x="735.4148685148843" y="388.0" type="line"/>
+      <point x="262.4148685148844" y="388.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="578.7302725702644" y="1059.0" type="line"/>
+      <point x="392.0" y="0.0" type="line"/>
+      <point x="-16.0" y="0.0" type="line"/>
+      <point x="170.73027257026445" y="1059.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="768.8980942125395" y="300.0" type="line"/>
+      <point x="1168.8980942125395" y="300.0" type="line"/>
+      <point x="1068.3917152087145" y="-270.0" type="line"/>
+      <point x="678.3917152087145" y="-270.0" type="line"/>
+      <point x="726.0" y="0.0" type="line"/>
+      <point x="716.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

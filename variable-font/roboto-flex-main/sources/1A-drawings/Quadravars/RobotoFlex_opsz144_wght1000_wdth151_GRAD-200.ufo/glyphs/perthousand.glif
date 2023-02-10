@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="perthousand" format="2">
+  <advance width="3316.0"/>
+  <unicode hex="2030"/>
+  <outline>
+    <component base="zerosuperior"/>
+    <component base="fraction" xOffset="960.0"/>
+    <component base="zerosuperior" xOffset="1289.0" yOffset="-680.0"/>
+    <component base="zerosuperior" xOffset="2337.0" yOffset="-680.0"/>
+  </outline>
+</glyph>

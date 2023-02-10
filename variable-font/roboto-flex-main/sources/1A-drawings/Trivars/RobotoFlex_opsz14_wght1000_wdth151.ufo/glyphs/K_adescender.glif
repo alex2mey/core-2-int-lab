@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kadescender" format="2">
+	<unicode hex="049A"/>
+	<advance width="1603"/>
+	<outline>
+		<contour>
+			<point x="356" y="907" type="line"/>
+			<point x="648" y="907" type="line"/>
+			<point x="1136" y="1456" type="line"/>
+			<point x="1580" y="1456" type="line"/>
+			<point x="734" y="591" type="line"/>
+			<point x="356" y="591" type="line"/>
+		</contour>
+		<contour>
+			<point x="1108" y="0" type="line"/>
+			<point x="636" y="610" type="line"/>
+			<point x="913" y="872" type="line"/>
+			<point x="1614" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="140" y="0" type="line"/>
+			<point x="140" y="1456" type="line"/>
+			<point x="572" y="1456" type="line"/>
+			<point x="572" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="1119" y="0" type="line"/>
+			<point x="1119" y="313" type="line"/>
+			<point x="1623" y="313" type="line"/>
+			<point x="1623" y="-290" type="line"/>
+			<point x="1211" y="-290" type="line"/>
+			<point x="1211" y="0" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="480" y="796" angle="90" identifier="L0Qoa5h5Gm"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.868,0.7015,1</string>
+		</dict>
+	</lib>
+</glyph>

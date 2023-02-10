@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Xi" format="2">
+	<unicode hex="039E"/>
+	<advance width="1776"/>
+	<outline>
+		<contour>
+			<point x="140" y="0" type="line"/>
+			<point x="140" y="430" type="line"/>
+			<point x="1666" y="430" type="line"/>
+			<point x="1666" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="223" y="534" type="line"/>
+			<point x="223" y="912" type="line"/>
+			<point x="1564" y="912" type="line"/>
+			<point x="1564" y="534" type="line"/>
+		</contour>
+		<contour>
+			<point x="140" y="1006" type="line"/>
+			<point x="140" y="1456" type="line"/>
+			<point x="1647" y="1456" type="line"/>
+			<point x="1647" y="1006" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.7176,0.2706,1,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.case" format="2">
+  <advance width="500"/>
+  <anchor x="250.0" y="1456" name="_top"/>
+  <anchor x="250.0" y="1701.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="346.49047106269745" y="1500.0" type="line"/>
+      <point x="271.9321941850989" y="1701.0" type="line"/>
+      <point x="362.9321941850989" y="1701.0" type="line"/>
+      <point x="403.5362263071678" y="1591.0" type="line"/>
+      <point x="481.932194185099" y="1701.0" type="line"/>
+      <point x="571.932194185099" y="1701.0" type="line"/>
+      <point x="428.49047106269745" y="1500.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

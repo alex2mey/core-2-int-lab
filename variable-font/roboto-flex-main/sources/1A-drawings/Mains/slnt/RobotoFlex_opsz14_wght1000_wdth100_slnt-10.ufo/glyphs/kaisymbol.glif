@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaisymbol" format="2">
+  <advance width="1209"/>
+  <unicode hex="03D7"/>
+  <outline>
+    <contour>
+      <point x="466" y="-509.0" type="line"/>
+      <point x="303.86029293863294" y="-256.0" type="line"/>
+      <point x="723.7028665948777" y="21.0" type="line"/>
+      <point x="506.41486851488435" y="388.0" type="line"/>
+      <point x="460.41486851488435" y="388.0" type="line"/>
+      <point x="392.0" y="0.0" type="line"/>
+      <point x="-16.0" y="0.0" type="line"/>
+      <point x="170.55394558955595" y="1058.0" type="line"/>
+      <point x="578.553945589556" y="1058.0" type="line"/>
+      <point x="514.1945976309662" y="693.0" type="line"/>
+      <point x="580.1945976309662" y="693.0" type="line"/>
+      <point x="909.553945589556" y="1058.0" type="line"/>
+      <point x="1337.553945589556" y="1058.0" type="line"/>
+      <point x="851.0378012739066" y="556.0" type="line"/>
+      <point x="1176.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

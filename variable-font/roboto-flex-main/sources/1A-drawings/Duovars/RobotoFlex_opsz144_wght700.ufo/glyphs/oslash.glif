@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="2">
+	<unicode hex="00F8"/>
+	<advance width="1125"/>
+	<outline>
+		<component base="o"/>
+		<component base="diagonalbaro" xOffset="329.75" yOffset="-12"/>
+	</outline>
+	<anchor name="top" x="562.5" y="914"/>
+</glyph>

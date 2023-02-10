@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lownumeralsign" format="2">
+  <advance width="621"/>
+  <unicode hex="0375"/>
+  <outline>
+    <contour>
+      <point x="105.59851947946117" y="338.0" type="line"/>
+      <point x="401.6662466755363" y="276.0" type="line"/>
+      <point x="217.49543233743555" y="-173.0" type="line"/>
+      <point x="-182.98779336021954" y="-85.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

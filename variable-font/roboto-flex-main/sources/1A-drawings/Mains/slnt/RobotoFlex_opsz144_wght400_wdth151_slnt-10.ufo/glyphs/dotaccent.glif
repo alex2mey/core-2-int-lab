@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent" format="2">
+  <advance width="1024"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="476.60214216198233" y="1132.0" type="qcurve" smooth="yes"/>
+      <point x="483.302567428904" y="1170.0"/>
+      <point x="551.7662625029103" y="1218.0"/>
+      <point x="598.7662625029103" y="1218.0" type="qcurve" smooth="yes"/>
+      <point x="645.7662625029103" y="1218.0"/>
+      <point x="698.302567428904" y="1170.0"/>
+      <point x="691.6021421619823" y="1132.0" type="qcurve" smooth="yes"/>
+      <point x="685.2543708564776" y="1096.0"/>
+      <point x="616.1433297438882" y="1050.0"/>
+      <point x="569.1433297438882" y="1050.0" type="qcurve" smooth="yes"/>
+      <point x="522.1433297438882" y="1050.0"/>
+      <point x="470.25437085647764" y="1096.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

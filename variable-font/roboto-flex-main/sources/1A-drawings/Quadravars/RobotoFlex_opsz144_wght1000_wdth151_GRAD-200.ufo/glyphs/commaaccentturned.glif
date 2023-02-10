@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentturned" format="2">
+  <advance width="1024.0"/>
+  <unicode hex="02BB"/>
+  <outline>
+    <contour>
+      <point x="1248.5" y="1398.25" type="line"/>
+      <point x="1215.5" y="1287.25"/>
+      <point x="1173.5" y="1138.0"/>
+      <point x="1146.0000000000002" y="1002.25" type="qcurve"/>
+      <point x="570.0000000000001" y="1000.25" type="line"/>
+      <point x="715.0000000000002" y="1401.25" type="line"/>
+    </contour>
+  </outline>
+</glyph>

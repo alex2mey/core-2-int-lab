@@ -1,0 +1,11 @@
+
+h1 {
+font-family: 'RobotoFlex';
+font-variation-settings: "wdth" 200, "wght" 200;
+	transition: all 1000ms;
+}
+
+h1:hover {
+	font-variation-settings: "wdth" 400, "wght" 900;
+	color: purple;
+}

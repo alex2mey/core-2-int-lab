@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhedescender" format="2">
+  <advance width="1738"/>
+  <unicode hex="0497"/>
+  <outline>
+    <contour>
+      <point x="1455.0" y="0.0" type="line"/>
+      <point x="1016.2867381066023" y="461.0" type="line"/>
+      <point x="1024" y="465.0" type="line"/>
+      <point x="1462" y="6.0" type="line"/>
+      <point x="1463.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="836.162860367537" y="914.0" type="line"/>
+      <point x="675.0" y="0.0" type="line"/>
+      <point x="666.0" y="0.0" type="line"/>
+      <point x="827.162860367537" y="914.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="752.5210269715616" y="468.0" type="line"/>
+      <point x="1019.5210269715617" y="468.0" type="line"/>
+      <point x="1586.162860367537" y="914.0" type="line"/>
+      <point x="1599.162860367537" y="914.0" type="line"/>
+      <point x="1020.9340841451854" y="459.0" type="line"/>
+      <point x="750.9340841451855" y="459.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1456.5869428263761" y="9.0" type="line"/>
+      <point x="1631.5869428263761" y="9.0" type="line"/>
+      <point x="1584.507638977216" y="-258.0" type="line"/>
+      <point x="1575.507638977216" y="-258.0" type="line"/>
+      <point x="1621.0" y="0.0" type="line"/>
+      <point x="1455.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-114.0" y="0.0" type="line"/>
+      <point x="-128.0" y="0.0" type="line"/>
+      <point x="478.9920460294362" y="465.0" type="line"/>
+      <point x="487.28673810660234" y="461.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="752.5210269715616" y="468.0" type="line"/>
+      <point x="750.9340841451855" y="459.0" type="line"/>
+      <point x="484" y="459.0" type="line"/>
+      <point x="66" y="914.0" type="line"/>
+      <point x="77.16286036753698" y="914.0" type="line"/>
+      <point x="486.5210269715616" y="468.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

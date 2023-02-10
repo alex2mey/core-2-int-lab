@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A" format="2">
+  <advance width="1010"/>
+  <unicode hex="0041"/>
+  <anchor x="505.0" y="0" name="bottom"/>
+  <anchor x="948" y="0" name="ogonek"/>
+  <anchor x="505.0" y="1456" name="top"/>
+  <outline>
+    <contour>
+      <point x="-138.0" y="0.0" type="line"/>
+      <point x="562" y="1456.0" type="line"/>
+      <point x="710.732083911525" y="1456.0" type="line"/>
+      <point x="892.0" y="0.0" type="line"/>
+      <point x="783.0" y="0.0" type="line"/>
+      <point x="634" y="1216.0" type="line" smooth="yes"/>
+      <point x="629" y="1257"/>
+      <point x="623" y="1318.0"/>
+      <point x="619" y="1355.0" type="qcurve"/>
+      <point x="616" y="1355.0" type="line"/>
+      <point x="598" y="1318.0"/>
+      <point x="569" y="1257"/>
+      <point x="550" y="1216.0" type="qcurve" smooth="yes"/>
+      <point x="-27.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="112.70467793613835" y="418.0" type="line"/>
+      <point x="155.92676016131713" y="510.0" type="line"/>
+      <point x="774.9267601613171" y="510.0" type="line"/>
+      <point x="786.7046779361383" y="418.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hastroke-cy" format="2">
+	<unicode hex="04FF"/>
+	<advance width="1278"/>
+	<outline>
+		<contour>
+			<point x="71" y="446" type="line"/>
+			<point x="71" y="702" type="line"/>
+			<point x="1177" y="702" type="line"/>
+			<point x="1177" y="446" type="line"/>
+		</contour>
+		<contour>
+			<point x="-60" y="0" type="line"/>
+			<point x="514" y="655" type="line"/>
+			<point x="534" y="655" type="line"/>
+			<point x="856" y="1133" type="line"/>
+			<point x="1268" y="1133" type="line"/>
+			<point x="745" y="499" type="line"/>
+			<point x="722" y="499" type="line"/>
+			<point x="364" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="-49" y="1133" type="line"/>
+			<point x="435" y="1133" type="line"/>
+			<point x="771" y="659" type="line"/>
+			<point x="783" y="659" type="line"/>
+			<point x="1338" y="0" type="line"/>
+			<point x="854" y="0" type="line"/>
+			<point x="510" y="502" type="line"/>
+			<point x="498" y="502" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0.868,0.7015,1</string>
+		</dict>
+	</lib>
+</glyph>
