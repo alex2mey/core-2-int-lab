@@ -86,17 +86,34 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-   <!--this is for the easiest way to have responsive images-->
-   body{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: medium;
+
+  
+body{
+    background: #000;
    }
    
+.top{
+  background-color: gray;
+  width: 95vw;
+margin: auto;
+position: sticky;
+}
+
    img{
        max-width: 100%;
        height: auto;
    }
+
+  .me{
+    width: 60vw;
+  }
    
+h1{
+  font-family: monospace;
+  text-align: center;
+  color: white
+}
+
    main{
        background: rgb(249, 149, 218);
        width: 90vw;
@@ -105,37 +122,57 @@ textarea {
        padding: 1rem;
        font-family: Arial, Helvetica, sans-serif;
        text-align: center;
+       border-color: #696969;
+       border-width: 20px;
    }
-   
+
    article{
        display: grid;
        grid-template-columns: repeat(auto-fill, 100px);
-       grid-template-columns: 3fr 5fr 2fr;
+       grid-template-columns: 2fr 6fr 2fr;
        grid-template-rows: minmax(300px, max-content);
        gap: 1rem;
        border-radius: 20px;
-       font-family: Arial, Helvetica, sans-serif;
+       font-family: monospace;
+       border-color: #696969;
+       border-width: 20px;
+       
+       
    }
    
    section{
-       background: rgb(249, 197, 249);
+       border-color: #696969;
+       border-width: 20px;
        padding: 1rem;
-       border-radius: 20px;
+       border-radius: px;
    }
    
+   .content{
+    background-color: rgb(249, 211, 249);
+   }
+
    nav ul {
        display: flex;
-       background-color: paleturquoise;
-       padding: 1rem;
-       border-radius: 10px;
+       background-color: gray;
+       padding: 0rem;
+       border-radius: 0px;
+       margin-left: 2.5vw;
+       margin-right: 2.5vw;
    }
    
    nav li{
        flex: auto;
-       padding:1rem;
-       margin:1rem;
-       background-color: lightpink;
-       border-radius: 10px;
+       padding:0.5rem;
+       margin:0.5rem;
+       background-color: rgb(249, 211, 249);
+       border-radius: 0px;
+       text-align: center;
+       font-family: monospace;
+       color: #696969;
+   }
+
+   a{
+    color: #696969;
    }
    
    .box{
