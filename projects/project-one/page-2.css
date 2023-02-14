@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 body{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'VT323', monospace;
     line-height: 2.7vh;
     padding-top: 7vh;
     padding-left: 5vw;
@@ -30,9 +32,10 @@ body{
 }
 
 .symbol{
-    padding-top: 5vh;
-    margin-left: -5vw;
-    text-align: center;
+    padding: 8vh;
+    margin-left: vw;
+    text-align: right;
     font-size: 500%;
     color: orange;
+    font-family: 'Press Start 2P', cursive;
 }
