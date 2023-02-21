@@ -1,11 +1,42 @@
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
+nav ul {
+    display: flex;
+    padding: 0rem;
+    margin-bottom: 5vh;
+    border-radius: 0px;
+    border: outset 10px white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40vw;
+}
+
+nav li{
+    flex: auto;
+    padding:0.5rem;
+    margin:0.5rem;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 100%;
+    color: white;
+}
+
+.active{
+    color: rgb(255, 242, 0);
+    font-size: 150%;
+}
+
+
 body{
     font-family: 'VT323', monospace;
-    line-height: 2.7vh;
-    padding-top: 7vh;
+    line-height: 4vh;
     padding-left: 5vw;
+    padding-bottom: 1vh;
+    background-color: rgb(43, 43, 43);
+    color: white;
+    font-size: 125%;
+
 }
 
 .box{
@@ -14,21 +45,117 @@ body{
     align-items: flex-start;
     padding: 1rem;
     margin: 1rem;
-    background-color: rgb(189, 255, 189);
     border-radius: 10px;
     width: 40vw;
+}
+
+.flex-item-selected:hover .word{
+    display: inline;
+}
+
+.flex-item-selected:hover .comma{
+    display:none;
+}
+
+.flex-item-selected:hover .period{
+    display:none;
+}
+
+.flex-item-selected:hover .colon{
+    display:none;
+}
+
+.flex-item-selected:hover .question{
+    display:none;
+}
+
+.flex-item-selected:hover .exclamation{
+    display:none;
+}
+
+.flex-item-selected:hover .colon{
+    display:none;
+}
+
+.flex-item-selected:hover .quotation{
+    display:none;
+}
+
+.flex-item-selected:hover .apostrophe{
+    display:none;
+}
+
+.flex-item-selected:hover .semicolon{
+    display:none;
 }
 
 .flex-item-selected{
  width: 90vw;
 }
 
+.flex-item-selected{
+ width: 90vw;
+ border: outset 10px white;
+ padding:0.5rem;
+}
+
 .flex-item{
- padding:0rem;
+ padding:0.5rem;
  margin:0rem;
- background-color:white;
- border-radius: 10px;
+ border: outset 10px white;
  width: 40vw;
+}
+
+.word{
+    display: none;
+}
+
+.exclamation{
+    color:rgb(255, 242, 0);
+    font-family: 'Press Start 2P', cursive;
+    line-height: 1vh;
+}
+
+.period{
+    color: blueviolet;
+    font-family: 'Press Start 2P', cursive;
+    line-height: 1vh;
+}
+
+.quotation{
+    color: rgb(113, 255, 210);
+    font-family: 'Press Start 2P', cursive;
+    line-height: 1vh;
+}
+
+.semicolon{
+    color:rgb(255, 140, 0);
+    font-family: 'Press Start 2P', cursive;
+    line-height: 1vh;
+}
+
+.comma{
+    color:red;
+    font-family: 'Press Start 2P', cursive;
+    line-height: 1vh;
+}
+
+.colon{
+    color: magenta;
+    font-family: 'Press Start 2P', cursive;
+    line-height: 1vh;
+}
+
+.apostrophe{
+color:blue;
+font-family: 'Press Start 2P', cursive;
+line-height: 1vh;
+}
+
+.question{
+    color: yellowgreen;
+    font-family: 'Press Start 2P', cursive;
+    line-height: 1vh;
 }
 
 .symbol{
@@ -36,6 +163,45 @@ body{
     margin-left: vw;
     text-align: right;
     font-size: 500%;
-    color: plum;
+    color:rgb(255, 242, 0);
     font-family: 'Press Start 2P', cursive;
+    bottom: 0;
+    right: 0;
+    position: fixed;
 }
+
+a:link { text-decoration: none; 
+    color:rgb(255, 242, 0);}
+
+
+a:visited { text-decoration: none;
+    color:rgb(255, 242, 0);}
+
+
+a:hover { text-decoration: none;
+    color:rgb(255, 242, 0);
+    font-size: 105%;
+}
+
+
+a:active { text-decoration: none; 
+    color:rgb(255, 242, 0);}
+
+    @media (max-width: 600px) {
+        body{
+            padding-left: 0vw;
+        }
+        .symbol{
+            padding:1vh;
+            padding-bottom: 4vh;
+        }
+        nav ul{
+            width:60vw;
+        }
+        nav li{
+            font-size: 70%;
+        }
+        .active{
+            font-size: 90%;
+        }
+    }
