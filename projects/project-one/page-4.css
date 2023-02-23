@@ -23,7 +23,7 @@ nav li{
 }
 
 .active{
-    color:magenta;
+    color: magenta;
     font-size: 150%;
 }
 
@@ -31,12 +31,15 @@ nav li{
 body{
     font-family: 'VT323', monospace;
     line-height: 4vh;
-    padding-left: 5vw;
-    padding-bottom: 1vh;
+    padding-bottom: 2vh;
     background-color: rgb(43, 43, 43);
     color: white;
-    font-size: 125%;
+    font-size: 145%;
 
+}
+
+.word{
+    display: none;
 }
 
 .box{
@@ -89,17 +92,61 @@ body{
     display:none;
 }
 
+
+
+
+
+.flex-item-selected:hover .word{
+    display: inline;
+}
+
+.flex-item-selected:hover .comma{
+    display:none;
+}
+
+.flex-item-selected:hover .period{
+    display:none;
+}
+
+.flex-item-selected:hover .colon{
+    display:none;
+}
+
+.flex-item-selected:hover .question{
+    display:none;
+}
+
+.flex-item-selected:hover .exclamation{
+    display:none;
+}
+
+.flex-item-selected:hover .colon{
+    display:none;
+}
+
+.flex-item-selected:hover .quotation{
+    display:none;
+}
+
+.flex-item-selected:hover .apostrophe{
+    display:none;
+}
+
+.flex-item-selected:hover .semicolon{
+    display:none;
+}
+
 .flex-item-selected{
  width: 90vw;
- border: outset 10px white;
+ border: outset 5px white;
  padding: 0.5rem;
 }
 
 .flex-item{
  padding:0.5rem;
  margin:0rem;
- border: outset 10px white;
  width: 40vw;
+ border: outset 5px white;
 }
 
 .word{
@@ -188,7 +235,7 @@ a:active { text-decoration: none;
         }
         .symbol{
             padding:1vh;
-            padding-bottom: 4vh;
+            padding-bottom: 6vh;
         }
         nav ul{
             width:60vw;
