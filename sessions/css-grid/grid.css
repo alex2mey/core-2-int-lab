@@ -1,0 +1,59 @@
+.flex-container{
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  
+    .letter{
+      width: 50vw;
+      height: 50vw;
+      display: grid;
+      grid-template-columns: repeat(10, 1fr);
+      grid-template-rows: repeat(10, 1fr);
+      gap: 0px;
+      border: outset 5px pink;
+    }
+    .block{
+      background: rgb(137, 254, 137);
+
+    }
+
+    .caramel{
+        background: burlywood;
+    }
+
+    .dcaramel{
+        background: rgb(200, 156, 112);
+
+    }
+
+    .black{
+        background: black;
+    }
+
+    .gray{
+        background: gray;
+    }
+
+    .pink{
+        background: rgb(247, 149, 165)
+    }
+
+    .blush{
+        background: rgb(255, 114, 138);
+    }
+
+    .red{
+        background: rgb(206, 67, 67);
+    }
+
+    .white{
+        background: white;
+    }
+
+    .yellow{
+        background: yellow;
+    }
+
+    .blue{
+        background: rgb(58, 114, 191);
+    }
