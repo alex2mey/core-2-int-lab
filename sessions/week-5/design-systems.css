@@ -2,6 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Amiri:400,700|Noto+Sans+JP:400,500,900&display=swap');
 @import url('https://brand.ap.org/assets/scss/_ap_fonts.scss');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto+Mono&display=swap');
 /*! minireset.css v0.0.6 | MIT License */ html,body,p,ol,ul,li,dl,dt,dd,blockquote,figure,fieldset,legend,textarea,pre,iframe,hr,h1,h2,h3,h4,h5,h6{margin:0;padding:0}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}ul{list-style:none}button,input,select,textarea{margin:0}html{box-sizing:border-box}*,*::before,*::after{box-sizing:inherit}img,video{height:auto;max-width:100%}iframe{border:0}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}td:not([align]),th:not([align]){text-align:left}
 
 
@@ -197,23 +198,23 @@ p, li {
 
 
   .color-gray {
-    background-color: #434E59;
+    background-color: #f65cd4;
   }
 
     .color-light-gray {
-    background-color: #E6ECF2;
+    background-color: #c3307c;
   }
     .color-bright-yellow {
-    background-color: #F2BC1B;
+    background-color: #eebde3;
   }
     .color-medium-yellow {
-    background-color: #CF9730;
+    background-color: #fffe91;
   }
     .color-medium-brown {
-    background-color: #A66312;
+    background-color: #e5d8e2;
   }
     .color-deep-brown {
-    background-color: #736048;
+    background-color: #424242;
   }
 
 
@@ -221,7 +222,7 @@ p, li {
   display: flex;
   padding:3rem 1rem;
   color:#ffffff;
-  font-family: 'Noto Sans JP';
+  font-family: 'Roboto Mono', monospace;
 }
 
 .primary-hue > div {
@@ -232,7 +233,7 @@ p, li {
   display: flex;
   padding:1.5rem 1rem;
   color:#ffffff;
-  font-family: 'Noto Sans JP';
+  font-family: 'Roboto Mono', monospace;
 }
 
 .secondary-hue > div {

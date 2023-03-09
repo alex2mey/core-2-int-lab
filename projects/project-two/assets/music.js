@@ -5,7 +5,7 @@ let container = document.getElementById("container");
 // see Python instructions here:
 // https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/set_up_a_local_testing_server#using_python
 
-fetch('./assets/emojis.json')
+fetch('./assets/music.json')
   .then(response => response.json())
   .then(data => {
     displayData(data);
@@ -17,18 +17,14 @@ fetch('./assets/emojis.json')
 function displayData( data ){
   data.forEach( function(item, index){
     console.log(item, index);
-    let usage = item['general-usage'] * 10;
-    console.log('usage', usage);
+
     let newItem = document.createElement("div");
-    newItem.classList.add("icon");
-    newItem.classList.add(item.categorykey);
-    newItem.style.cssText = `font-size: ${usage}px`;
+
     newItem.innerHTML = `
-      <div class="category">${item.category}</div>
-      <div class="emoji">${item.emoji}</div>
-      <div class="emoji">${item.description}</div>
-      <br>
-      <div class="phrase">${item.sample}</div>`;
-    container.appendChild(newItem);    
+      <div class="song-title">${item['song-title']}</div>
+      <div class="artist">${item.artist}</div>
+      <div class="feature">${item.feature}</div>
+      <div class="song-length">${item.song-length}</div>`;
+    container.appendChild(newItem);        
   });
 }
