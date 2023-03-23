@@ -24,11 +24,14 @@ function displayData( data ){
     newItem.classList.add(item.categorykey);
     newItem.style.cssText = `font-size: ${usage}px`;
     newItem.innerHTML = `
+      <div class="top></div>
+      <div class="content">
       <div class="category">${item.category}</div>
       <div class="emoji">${item.emoji}</div>
       <div class="emoji">${item.description}</div>
       <br>
-      <div class="phrase">${item.sample}</div>`;
+      <div class="phrase">${item.sample}</div>
+      </div>`;
     container.appendChild(newItem);    
   });
 }

@@ -19,12 +19,36 @@ function displayData( data ){
     console.log(item, index);
 
     let newItem = document.createElement("div");
-
+    newItem.classList.add('item');
+    if( index == 0){
+      newItem.classList.add('active');
+    }
+    newItem.dataset.color = item.mood;
     newItem.innerHTML = `
+<div class="top"><span class="playing">Now Playing</span><span class="battery">(battery)</span></div>
+<div>
+      <div class="image"><img src="assets/album-covers/${item['image-key']}"></div>
+<div class="content">
       <div class="song-title">${item['song-title']}</div>
       <div class="artist">${item.artist}</div>
-      <div class="feature">${item.feature}</div>
-      <div class="song-length">${item.song-length}</div>`;
-    container.appendChild(newItem);        
+      <div class="artist">${item.album}</div>
+      <div class="released">${item.released}</div>
+</div>
+      <div class="song-length">${item['song-length']}</div>
+      <div class="song"><audio controls><source src="assets/song-files/${item['song-key']}"></audiio></div>
+      <br>
+</div>`;
+    container.appendChild(newItem);  
+    
+   
   });
 }
+
+document.getElementById('next').addEventListener('click', function(){
+  let current = document.querySelector('.active');
+  let next = current.nextElementSibling;
+  current.classList.remove('active');
+  next.classList.add('active');
+  let moodclass = next.dataset.color;
+  document.querySelector('body').classList.add(moodclass);
+});

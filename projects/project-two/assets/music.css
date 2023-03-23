@@ -1,5 +1,5 @@
 body{
-    font-family: 'PingFang TC', Arial, sans-serif;
+    font-family: 'Lucida Grande'
   }
   h1{
     font-weight: normal;
@@ -9,3 +9,46 @@ body{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
   }
+
+  img{
+    width: 100px;
+  }
+
+  .top{
+    width: 400px;
+    height: 20px;
+    background-color: lightgray;
+    text-align: center;
+  }
+
+  .item{
+    display: none;
+  }
+  .active.item{
+    display: block;
+  }
+
+  .energetic{
+    background-color: #fffa77;
+  }
+
+  .pumped{
+    background-color: #ff563f;
+  }
+
+  .invigorated{
+    background-color: #91f9a7;
+  }
+
+  .somber{
+    background-color: #919bf9;
+  }
+
+  .mellow{
+    background-color: #38c19f;
+  }
+
+  .groove{
+    background-color: #ffa800;
+  }
+
