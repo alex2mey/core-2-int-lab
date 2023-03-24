@@ -287,6 +287,7 @@ nav li {
   border-radius: 20px;
   margin-left: auto;
   margin-right: auto;
+  padding-top: 30px;
 }
 
 .screen{
@@ -314,23 +315,30 @@ nav li {
   margin-top: 40px;
 }
 
+
 .play{
   position: absolute;
-  width: 50px;
-  height: 50px;
-  background: red;
-  top: 140;
-  left: 0;
+  width: 25px;
+  height: 25px;
+  top: 230px;
+  left: 137.5px;
 }
 
-.rewind{
-color: #fff;
-padding-top: 100px;
+.back{
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 137.5px;
+  left: 37.5px;
 }
 
 
 .next{
-color: #fff;
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 137.5px;
+  left: 237.5px;
 }
 
 .center{

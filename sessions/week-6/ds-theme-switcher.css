@@ -177,7 +177,7 @@ textarea {
 
 
   :root {
-    --bg-color: #CF9730;
+    --bg-color: #e5d8e2;
     --font-color: #222;
     --title-color: #0067e6;
     --title-background: #eee;
@@ -207,12 +207,12 @@ textarea {
   }
 
   [data-theme="dark"] {
-    --bg-color: #111;
+    --bg-color: #424242;
     --font-color: #efefef;
-    --title-color: #fec150;
+    --title-color: #c3307c;
     --title-background: #222;
     --main-border: 1px solid rgba(255, 255, 255, 0.2);
-    --main-bg: rgba(25, 25, 25, 0.4);
+    --main-bg: #424242;
   }
   
   @media (min-width: 30em) {
@@ -277,6 +277,7 @@ main {
 
 section {
   padding:1rem;
+  border: outset #e5d8e2 5px;
 }
 
 

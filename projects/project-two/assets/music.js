@@ -25,19 +25,28 @@ function displayData( data ){
     }
     newItem.dataset.color = item.mood;
     newItem.innerHTML = `
-<div class="top"><span class="playing">Now Playing</span><span class="battery">(battery)</span></div>
-<div>
+    <section>
+<div class="top"><span class="playing">Now Playing</span></div>
+<div class="inner-screen">
       <div class="image"><img src="assets/album-covers/${item['image-key']}"></div>
 <div class="content">
-      <div class="song-title">${item['song-title']}</div>
-      <div class="artist">${item.artist}</div>
-      <div class="artist">${item.album}</div>
-      <div class="released">${item.released}</div>
+${item['song-title']}
+<br>
+<br>
+${item.artist}
+<br>
+<br>
+${item.album}
+<br>
+<br>
+${item.released}
+</div>
 </div>
       <div class="song-length">${item['song-length']}</div>
       <div class="song"><audio controls><source src="assets/song-files/${item['song-key']}"></audiio></div>
       <br>
-</div>`;
+</div>
+</section>`;
     container.appendChild(newItem);  
     
    
