@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+
+
+/* I always reset all the html elements */
+
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+    font-family: 'Ubuntu Mono', monospace;
+	min-height: 100vh;
+	color: white;
+    font-size:1.15vw;
+    background-color: black;
+}
+
+table{
+	width:  70vw;
+	margin: 2vw auto;
+}
+
+table th{
+	padding: 1.2vw 0;
+	background-color: black;
+
+    color:#D5F26B;
+
+    font-family: 'Ubuntu Mono', monospace;
+    font-size:1.2vw;
+}
+
+table td{
+	padding: 1vw;
+	width: 10vw;
+	text-align: center;
+	background-color: black;
+}
+table th:hover{
+    color: #F28C9A;
+	background-color: black;
+    border-radius: 1.2vw;
+}
+
+table td:hover{
+    color:#177AA7;
+}
+
+table img{
+	width:  8vw;
+}
+
+

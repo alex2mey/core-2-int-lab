@@ -213,6 +213,7 @@ textarea {
     --title-background: #222;
     --main-border: 1px solid rgba(255, 255, 255, 0.2);
     --main-bg: #424242;
+    border: outset #424242 5px;
   }
   
   @media (min-width: 30em) {

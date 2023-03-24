@@ -40,10 +40,12 @@ ${item.album}
 <br>
 <br>
 ${item.released}
+<br>
+<br>
 </div>
 </div>
-      <div class="song-length">${item['song-length']}</div>
       <div class="song"><audio controls><source src="assets/song-files/${item['song-key']}"></audiio></div>
+      <div class="song-length">${item['song-length']}</div>
       <br>
 </div>
 </section>`;
@@ -60,4 +62,12 @@ document.getElementById('next').addEventListener('click', function(){
   next.classList.add('active');
   let moodclass = next.dataset.color;
   document.querySelector('body').classList.add(moodclass);
+  
+});
+
+document.getElementById('back').addEventListener('click', function(){
+  let current = document.querySelector('.active');
+  let back = current.previousElementSibling;
+  current.classList.remove('active');
+  back.classList.add('active');
 });

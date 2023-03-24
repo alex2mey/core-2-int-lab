@@ -8,6 +8,7 @@ h1{
     font-weight: normal;
   }
 
+  
   section{
     width: 420px;
     height:280px;
@@ -22,6 +23,11 @@ padding-top: 30px;
 .content{
   padding-left: 20px;
   padding-top:5px;
+}
+
+.battery {
+  width: 15px;
+  height: 15px;
 }
 
 .play img{
@@ -51,7 +57,17 @@ padding-top: 30px;
 .menu{
   position: absolute;
   top: 0px;
-  left: 0px;
+  left: 133px;
+  top: 37.5px;
+  color: white;
+}
+
+.song{
+  margin-left: 20px;
+}
+
+.song-length{
+  margin-right: 20px;
 }
 
 .image{
