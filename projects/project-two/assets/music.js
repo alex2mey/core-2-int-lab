@@ -27,6 +27,7 @@ function displayData( data ){
     newItem.innerHTML = `
     <section>
 <div class="top"><span class="playing">Now Playing</span></div>
+<div class="songnumber">${item.key} of 42</div>
 <div class="inner-screen">
       <div class="image"><img src="assets/album-covers/${item['image-key']}"></div>
 <div class="content">
