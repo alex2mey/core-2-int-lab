@@ -44,7 +44,7 @@ ${item.released}
 <br>
 </div>
 </div>
-      <div class="song"><audio controls><source src="assets/song-files/${item['song-key']}"></audiio></div>
+      <div class="song"><audio class ="songplayer" id="songplayer" controls><source src="assets/song-files/${item['song-key']}"></audiio></div>
       <div class="song-length">${item['song-length']}</div>
       <br>
 </div>
@@ -62,7 +62,12 @@ document.getElementById('next').addEventListener('click', function(){
   next.classList.add('active');
   let moodclass = next.dataset.color;
   document.querySelector('body').classList.add(moodclass);
-  
+  let previous = current.previousElementSibling;
+  let moodcolor = previous.dataset.color;
+  document.querySelector('body').classList.remove(moodcolor);
+  /* for (let i = 0; i < key.length; i++){
+    container++;
+  } */
 });
 
 document.getElementById('back').addEventListener('click', function(){
@@ -70,4 +75,16 @@ document.getElementById('back').addEventListener('click', function(){
   let back = current.previousElementSibling;
   current.classList.remove('active');
   back.classList.add('active');
+  let moodcolor = back.dataset.color;
+  document.querySelector('body').classList.add(moodcolor);
+  let previous = current.nextElementSibling;
+  let moodclass = previous.dataset.color;
+  document.querySelector('body').classList.remove(moodclass);
 });
+
+
+
+/* var myAudio = document.getElementById("songplayer");
+function togglePlay() {
+  return myAudio.paused ? myAudio.play() : myAudio.pause();
+}; */
