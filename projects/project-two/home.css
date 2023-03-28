@@ -181,3 +181,12 @@ h1{
     
   }
   
+  @media (max-width: 600px){
+        .body{
+            margin-top: 20vh;
+            transform: scale(1.2);
+        }
+        .body:hover{
+            transform:scale(1.7);
+        }
+}

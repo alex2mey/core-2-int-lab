@@ -189,3 +189,9 @@ padding-top: 30px;
     
   }
   
+  @media (max-width: 600px){
+    .body{
+        margin-top: 20vh;
+        transform: scale(1.7);
+    }
+  }
