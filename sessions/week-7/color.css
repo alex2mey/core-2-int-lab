@@ -18,6 +18,12 @@ body{
     background-color: black;
 }
 
+.grid {
+	grid-template-columns: auto auto auto auto;
+	display: grid;
+	margin:1vw;
+}
+
 table{
 	width:  70vw;
 	margin: 2vw auto;
@@ -53,4 +59,6 @@ table img{
 	width:  8vw;
 }
 
-
+.brose{
+	background-color: #F25EBB;
+}

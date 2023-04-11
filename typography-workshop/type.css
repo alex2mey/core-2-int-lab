@@ -1,0 +1,121 @@
+/*static font instances*/
+@font-face {
+    font-family: 'Quiosco';
+    font-weight: 700;
+    font-style: italic;
+    src: url(fonts/quiosco/Quiosco-BoldItalic.woff2) format("woff2"),url(fonts/quiosco/Quiosco-BoldItalic.woff) format("woff"),url(fonts/quiosco/Quiosco-BoldItalic.eot?#iefix) format("embedded-opentype")
+}
+
+@font-face {
+    font-family: 'Quiosco';
+    font-weight: 700;
+    font-style: normal;
+    src: url(fonts/quiosco/Quiosco-Bold.woff2) format("woff2"),url(fonts/quiosco/Quiosco-Bold.woff) format("woff"),url(fonts/quiosco/Quiosco-Bold.eot?#iefix) format("embedded-opentype")
+}
+
+@font-face {
+    font-family: 'Quiosco';
+    font-weight: 400;
+    font-style: normal;
+    src: url(fonts/quiosco/Quiosco-Regular.woff2) format("woff2"),url(fonts/quiosco/Quiosco-Regular.woff) format("woff"),url(fonts/quiosco/Quiosco-Regular.eot?#iefix) format("embedded-opentype")
+}
+
+@font-face {
+    font-family: 'Quiosco';
+    font-weight: 400;
+    font-style: italic;
+    src: url(fonts/quiosco/Quiosco-Italic.woff2) format("woff2"),url(fonts/quiosco/Quiosco-Italic.woff) format("woff"),url(fonts/quiosco/Quiosco-Italic.eot?#iefix) format("embedded-opentype")
+}
+
+@font-face {
+    font-family: 'Quiosco Display';
+    font-weight: 900;
+    font-style: italic;
+    src: url(fonts/quiosco/QuioscoDisplay-BlackItalic.woff2) format("woff2"),url(fonts/quiosco/QuioscoDisplay-BlackItalic.woff) format("woff"),url(fonts/quiosco/QuioscoDisplay-BlackItalic.eot?#iefix) format("embedded-opentype")
+}
+
+@font-face {
+    font-family: 'Quiosco Display';
+    font-weight: 900;
+    font-style: normal;
+    src: url(fonts/quiosco/QuioscoDisplay-Black.woff2) format("woff2"),url(fonts/quiosco/QuioscoDisplay-Black.woff) format("woff"),url(fonts/quiosco/QuioscoDisplay-Black.eot?#iefix) format("embedded-opentype")
+}
+
+@font-face {
+    font-family: 'Quiosco Display';
+    font-weight: 700;
+    font-style: normal;
+    src: url(fonts/quiosco/QuioscoDisplay-Bold.woff2) format("woff2"),url(fonts/quiosco/QuioscoDisplay-Bold.woff) format("woff"),url(fonts/quiosco/QuioscoDisplay-Bold.eot?#iefix) format("embedded-opentype")
+}
+
+@font-face {
+    font-family: 'Quiosco Display';
+    font-weight: 700;
+    font-style: italic;
+    src: url(fonts/quiosco/QuioscoDisplay-BoldItalic.woff2) format("woff2"),url(fonts/quiosco/QuioscoDisplay-BoldItalic.woff) format("woff"),url(fonts/quiosco/QuioscoDisplay-BoldItalic.eot?#iefix) format("embedded-opentype")
+}
+
+@font-face {
+    font-family: 'Quiosco Display';
+    font-weight: 400;
+    font-style: normal;
+    src: url(fonts/quiosco/QuioscoDisplay-Regular.woff2) format("woff2"),url(fonts/quiosco/QuioscoDisplay-Regular.woff) format("woff"),url(fonts/quiosco/QuioscoDisplay-Regular.eot?#iefix) format("embedded-opentype")
+}
+
+@font-face {
+    font-family: 'Quiosco Display';
+    font-weight: 400;
+    font-style: italic;
+    src: url(fonts/quiosco/QuioscoDisplay-Italic.woff2) format("woff2"),url(fonts/quiosco/QuioscoDisplay-Italic.woff) format("woff"),url(fonts/quiosco/QuioscoDisplay-Italic.eot?#iefix) format("embedded-opentype")
+}
+
+@font-face {
+    font-family: 'Quiosco Display';
+    font-weight: 400;
+    font-style: italic;
+    src: url(fonts/quiosco/QuioscoDisplay-Italic.woff2) format("woff2"),url(fonts/quiosco/QuioscoDisplay-Italic.woff) format("woff"),url(fonts/quiosco/QuioscoDisplay-Italic.eot?#iefix) format("embedded-opentype")
+}
+
+/*variable font*/
+
+@font-face {
+    font-family: 'Quiosco VF';
+    font-weight: 400 700;
+    src: url(fonts/quiosco-vf/QuioscoRomanVF.woff2) format("woff2-variations");
+}
+
+@font-face {
+    font-family: 'Quiosco VF';
+    font-weight: 400 700;
+    font-style: italic;
+    src: url(fonts/quiosco-vf/QuioscoItalicVF.woff2) format("woff2-variations");
+}
+
+body{
+    margin: 5rem;
+}
+
+main{
+    margin:auto;
+    width: 36em;
+    max-width: 600px;
+    padding: 1rem;
+    box-sizing: border-box;
+    border: dashed 5px pink;
+}
+
+/*:root{
+  --GRAD: 0;
+  --wght: 400;
+}
+body{
+  font-family: 'Quiosco VF';
+  font-variation-settings: 'wght' var(--wght), 'GRAD' var(--GRAD);
+}
+
+h1, h2, blockquote{
+  font-family: 'Quiosco Display';
+  font-size: 2rem;
+}
+*/
+
