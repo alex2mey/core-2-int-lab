@@ -1,0 +1,81 @@
+main{
+    font-family: lores-12, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.body{
+    width: 700px;
+    height: 275px;
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    border-radius: 50px;
+    transform: perspective(20px) rotateX(1deg);
+    z-index: -10;
+    position: relative;
+    
+}
+
+.rowbody{
+    width: 700px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    border-radius: 50px;
+    z-index: 10;
+    position: absolute;
+    top: 65px;
+}
+
+.radio{
+    width: 700px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+.screen{
+    width: 500px;
+    height: 100px;
+    background-color: #8BC278;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+    border: 30px darkslategray solid;
+}
+
+.rowscreen{
+    width: 400px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+}
+
+.buttonrow{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+.button{
+    width: 70px;
+    height: 50px;
+    background-color: lightgray;
+    align-items: center;
+    border-radius: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.buttoncontent{
+line-height: 45px;
+}

@@ -1,0 +1,170 @@
+
+@font-face {
+    font-family: 'Pentameter';
+    font-style: -16deg 0deg;
+    font-weight: 100 700;
+    font-display: swap;
+    src: url('fonts/PentameterVF.woff2') format('woff2');
+   }
+   
+   body{
+    font-family: lores-12, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+       display: flex;
+       align-items: center;
+       min-height: 100vh;
+       background-color: gray;
+   }
+
+ main{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+   }
+
+.display{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    width:700px;
+    height: auto;
+}
+
+.item{
+    display: none;
+  }
+  .active.item{
+    display: block;
+  }
+
+  .buttonrow{
+    display: flex;
+    flex-direction: row;
+    -ms-flex-item-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+
+.info{
+    width: 290px;
+    height: auto;
+}
+
+.button{
+    width: 70px;
+    height: 50px;
+    background-color: lightgray;
+    border-radius: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    cursor: pointer;
+}
+.full-screen{
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #8BC278;
+    border: solid 20px darkslategray;
+}
+
+.radioscreen{
+    background-color: gray;
+}
+   
+.buttoncontent{
+    line-height: 45px;
+}
+
+.icon{
+    height: 50px;
+    width: 50px;
+}
+
+.gif{
+    height: 100px;
+    width: 100px;
+}
+
+.counter{
+display: flex;
+flex-direction: row;
+margin-left: auto;
+margin-right: auto;
+column-gap: 60px;
+align-items: center;
+}
+
+.count{
+font-size: large;
+align-items: center;
+}
+
+.title{
+    font-size: x-large;
+    background-color: black;
+    color: #8BC278;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: auto;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.idle{
+    width: 30px;
+    height: 30px;
+}
+
+.idle img{
+    width: 30px;
+    height:30px;
+}
+
+.moving{
+    display: none;
+    width: 30px;
+    height: 30px;
+}
+
+.moving img{
+    width: 30px;
+    height: 30px;
+}
+
+.up{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top:10px;
+}
+
+.up:hover .idle{
+    display: none;
+}
+
+.up:hover .moving{
+    display: block;
+}
+
+.down{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom:10px;
+}
+
+.down:hover .idle{
+    display: none;
+}
+
+.down:hover .moving{
+    display: block;
+}
