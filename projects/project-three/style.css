@@ -52,7 +52,7 @@ margin-right: auto;
 
 .info{
     width: 290px;
-    height: auto;
+    height: 170px;
 }
 
 .button{
@@ -71,11 +71,16 @@ margin-right: auto;
     margin-left: auto;
     margin-right: auto;
     background-color: #8BC278;
-    border: solid 20px darkslategray;
+    border: solid 30px darkslategray;
+    border-radius: 40px;
+    width: 800px;
+    height: 400px;
 }
 
 .radioscreen{
     background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
 }
    
 .buttoncontent{
@@ -114,7 +119,7 @@ align-items: center;
     margin-right: auto;
     width: 100px;
     height: auto;
-    margin-top: 10px;
+    margin-top: 15px;
     text-align: center;
 }
 
@@ -167,4 +172,89 @@ align-items: center;
 
 .down:hover .moving{
     display: block;
+}
+
+section {
+width: 600px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 90px;
+}
+
+a:link { text-decoration: none; 
+}
+
+
+a:visited { text-decoration: none;
+}
+
+
+a:hover { text-decoration: none;
+}
+
+
+a:active { text-decoration: none; 
+}
+
+@media (max-width: 400px){
+main{
+    font-size: small;
+}
+
+    .radioscreen{
+    width:330px;
+
+}
+.full-screen{
+    width: 280px;
+    height: 550px;
+}
+
+main{
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 280px;
+}
+
+.item{
+    width: 290px;
+    flex-wrap: wrap;
+}
+
+section{
+    width: 260px;    
+    margin-top: 120px;
+    font-size: small;
+}
+.about{
+    width: 280px;
+}
+.gif{
+    width: 50px;
+    height: 50px;
+}
+.display{
+    width: 280px;
+    flex-direction: column;
+}
+.icon{
+    width: 25px;
+    height: 25px;
+}
+.phone{
+    width: 280px;
+}
+.pixel{
+    width: 280px;
+}
+.response{
+    width: 280px;
+}
+.counter{
+    column-gap: 10px;
+    margin-top: 30px;
+}
+.up{
+    margin-top: 20px;
+}
 }
