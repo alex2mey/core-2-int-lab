@@ -89,6 +89,8 @@ body{
 
 .flex-item-selected{
  width: 90vw;
+ margin-left: auto;
+ margin-right: auto;
 }
 
 .flex-item{
@@ -96,6 +98,8 @@ body{
  margin:0rem;
  width: 40vw;
  border: outset 5px white;
+ margin-left: auto;
+ margin-right: auto;
 }
 
 .exclamation{
